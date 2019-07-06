@@ -1,0 +1,13 @@
+Herencia en java orientado a objetos
+En el lenguaje de java una herencia es lo que nos permite que una clase adquiera los métodos y 
+atributos que se encuentran definidos en otra siempre y cuando estos sean públicos. En el 
+lenguaje java una clase que hereda se denomina superclase, y a clase que hereda se llama 
+subclase.
+
+Tiene como ventaja la reutilización de código:  ayuda a la optimizar el código porque evita la 
+repetición de métodos en cada una de las clases.
+
+
+
+
+
