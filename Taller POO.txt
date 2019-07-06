@@ -8,6 +8,11 @@ Tiene como ventaja la reutilización de código:  ayuda a la optimizar el código p
 repetición de métodos en cada una de las clases.
 
 
+Referencias
+
+Herencia en Java: Tipos y Ejemplos: https://javadesdecero.es/poo/herencia-java-tipos-ejemplos/
+
+
 
 
 
